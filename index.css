@@ -1,0 +1,48 @@
+.container{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.fastimg{
+    width: 100%;
+}
+.buton{
+    background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(162,36,146,1) 4%, rgba(217,63,87,1) 93%, rgba(0,212,255,1) 100%);
+    border: none;
+    border-radius: 30px;
+    padding: 8px;
+}
+.fastVision{
+    background-color: rgba(55, 133, 133, 0.322);
+    height: 260px;
+    width: 350px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.secadVision{
+    background-color: rgba(250, 235, 215, 0.521);
+    height: 260px;
+    width: 350px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.thardVision{
+    background-color: rgba(127, 255, 212, 0.322);
+    height: 260px;
+    width: 350px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.topDown{
+    position: relative;
+    top: 120px;
+}
+.leftRed{
+    border-left: 4.5px solid red;
+    padding-left: 2px;
+    
+}
